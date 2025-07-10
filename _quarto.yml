@@ -3,19 +3,22 @@ project:
   output-dir: docs
 
 website:
-  title: "trials-in-pictures"
+  title: "Trials in Pictures"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - href: posts/week-01.qmd
+        text: Week 1
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
+    theme: flatly
     toc: true
+    toc-location: right
+    code-fold: true
+    code-summary: "Show code"
+    number-sections: false
 
 
 
