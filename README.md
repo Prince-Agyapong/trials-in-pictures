@@ -1,4 +1,7 @@
 # Trials in Pictures
+### 🔗 Live Project Website
+
+[Click here to view the visualizations](https://prince-agyapong.github.io/trials-in-pictures)
 
 **Trials in Pictures** is a project focused on transforming clinical trial data from published tables into meaningful and engaging visualizations. The goal is to tell clear, data-driven stories about treatment effects, safety outcomes, and responder rates across therapeutic areas.
 
