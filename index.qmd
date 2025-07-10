@@ -1,6 +1,6 @@
 ---
 project:
-  type: website
+  type: website 
 
 title: "Semaglutide Consistently Reduces Alzheimer’s Risk"
 author: "Prince Agyapong"
