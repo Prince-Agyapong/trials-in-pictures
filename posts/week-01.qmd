@@ -31,7 +31,7 @@ format:
 
 **Visualization**
 
-![Semaglutide Risk Plot](clipboard-2440929796.png)
+![Semaglutide Risk Plot](semaglutide_risk.png)
 
 Semaglutide seems to be linked to a lower risk of being diagnosed with Alzheimer’s disease compared to several other diabetes medications. This was seen in people with type 2 diabetes, a group already known to have a higher risk of Alzheimer’s. The benefit wasn’t just in comparison to insulin, which is often associated with cognitive decline, but also when semaglutide was compared to commonly used non-insulin drugs like metformin, SGLT2 inhibitors, and even other GLP-1 receptor agonists.
 
